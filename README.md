@@ -2,7 +2,7 @@
    A front-end developer expanding my skills into back-end development
 -  🔭I'm currently studying at Rwanda Coding Academy
 - 🌱 I’m currently learning typescript + vue, next, nest and angular
-- 📫 How to reach me: https://www.instagram.com/_corey_ne/ and on gmail corenegasore@gmail.com
+- 📫 How to reach me: corenegasore@gmail.com and on https://www.instagram.com/_corey_ne/  
 
 
 <!---
