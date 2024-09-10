@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Corene Gasore TURINUMUGISHA,
-   a front-end developer expanding my skills into back-end development
--  🔭I'm currently studying at Rwanda Coding Academy
-- 🌱 I’m currently learning typescript + vue, next, nest and angular
+  a front-end developer expanding my skills into back-end development
+-  🔭Currently studying at Rwanda Coding Academy
 - 📫 How to reach me: corenegasore@gmail.com  
 
 
