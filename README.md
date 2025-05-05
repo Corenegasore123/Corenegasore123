@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello,+I'm+Gasore+Corene+TURINUMUGISHA!;Software+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;UI/UX+Designer+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%A8;Cybersecurity+Enthusiast+%F0%9F%9B%A1;Open-source+Contributor+%F0%9F%94%A5" alt="Typing SVG" />
 </h1>
 <p align="center">
-  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Coding Animation" width="450">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Animation" width="450">
 </p>
 
 ---
