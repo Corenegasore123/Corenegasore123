@@ -1,8 +1,5 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello,+I'm+Gasore+Corene+TURINUMUGISHA!;Software+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;UI/UX+Designer+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%A8;Cybersecurity+Enthusiast+%F0%9F%9B%A1;Open-source+Contributor+%F0%9F%94%A5" alt="Typing SVG" />
-</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Coding Animation" width="450">
+  <img src="[https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif]https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3h5M29jY2t6aWFmaGZxNnNqNWZ1bW1rNWtyeGU1M2toNHZwMWhjMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HscDLzkO8EOTmgkhQP/giphy.gif" alt="Coding Animation" width="450">
 </p>
 
 ---
