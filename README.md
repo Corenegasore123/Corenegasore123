@@ -52,13 +52,6 @@
 
 ---
 
-<h3 align="center">📌 My Contributions 📌</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Corenegasore123&theme=nord&column=7&row=1&margin-w=15" alt="GitHub Trophies" />
-</p>
-
----
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Thanks+for+Visiting!;Let's+Stay+Connected!;Feel+Free+To+Contact+Me" alt="Typing SVG" />
