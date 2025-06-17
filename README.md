@@ -45,7 +45,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Corenegasore123&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Corenegasore123&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Corenegasore123&theme=tokyonight&layout=compact&border_radius=10" alt="Top Languages" />
 </p>
