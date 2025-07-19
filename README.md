@@ -1,9 +1,3 @@
-<div align="center">
-
-<!-- Hero Section with Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Gasore%20Corene%20TURINUMUGISHA&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Frontend%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=51&descAlign=50" width="100%"/>
-
-</div>
 
 <!-- Animated Coding GIF -->
 <p align="center">
