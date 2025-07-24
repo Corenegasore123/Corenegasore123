@@ -99,8 +99,6 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Corenegasore123&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=15" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Corenegasore123&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=58A6FF&border_radius=15" width="48%" alt="GitHub Streak"/>
-
 <br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Corenegasore123&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact&border_radius=15&langs_count=8" width="50%" alt="Top Languages"/>
@@ -109,15 +107,6 @@
 
 ---
 
-## 🏆 **GitHub Trophies**
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Corenegasore123&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15)
-
-</div>
-
----
 
 ## 📈 **Activity Graph**
 
