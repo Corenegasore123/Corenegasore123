@@ -140,14 +140,6 @@ open_to:     [collaboration, open-source, mentorship]
   <img src="https://streak-stats.demolab.com?user=Corenegasore123&theme=tokyonight&hide_border=true&background=0f0c29&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Corenegasore123&theme=tokyo-night&hide_border=true&area=true&bg_color=0f0c29&color=58A6FF&line=302b63&point=ffffff&custom_title=Contribution%20Activity" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Corenegasore123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7"/>
-</div>
-
 <br/>
 
 
