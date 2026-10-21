@@ -88,7 +88,7 @@ pronouns:    She / Her
 
 domains:
   - 🎨 Frontend & Mobile Engineering
-  - ☁️ DevOps, GitOps & Cloud Infrastructure
+  - ☁️ DevOps & GitOps
   - 🔌 Embedded & Systems Programming
   - ⛓️ Blockchain & Web3   # learning
 
@@ -120,24 +120,24 @@ open_to:     [collaboration, open-source, mentorship]
 <!-- ═══════════════════════════ SKILLS ═══════════════════════════ -->
 <img align="left" width="40" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"/>
 
-## &nbsp;Tech Arsenal
+## &nbsp;Tech
 
 <div align="center">
 
 ### 💻 &nbsp;Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,rust,go,python,java,js,ts,php,bash,solidity&perline=11" alt="languages"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,php,bash,solidity&perline=11" alt="languages"/>
 
 ### 🎨 &nbsp;Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,svelte,tailwind,html,css,sass,redux,vite,webpack&perline=12" alt="frontend"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css,sass,redux,vite,webpack&perline=12" alt="frontend"/>
 
 ### 📱 &nbsp;Mobile
-<img src="https://skillicons.dev/icons?i=react,flutter,dart,kotlin,swift,androidstudio,expo&perline=7" alt="mobile"/>
+<img src="https://skillicons.dev/icons?i=react,flutter,androidstudio,expo&perline=7" alt="mobile"/>
 
 ### ⚙️ &nbsp;Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,fastapi,flask,laravel,graphql,spring&perline=9" alt="backend"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,fastapi,laravel,spring&perline=9" alt="backend"/>
 
 ### 🗄️ &nbsp;Databases & Caching
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,firebase,supabase,prisma&perline=8" alt="databases"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,supabase,prisma&perline=8" alt="databases"/>
 
 ### ☁️ &nbsp;DevOps & GitOps
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,grafana,githubactions,gitlab,git,linux&perline=8" alt="devops"/>
@@ -151,10 +151,6 @@ open_to:     [collaboration, open-source, mentorship]
 ### 🔌 &nbsp;Embedded & Hardware
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp,rust&perline=5" alt="embedded"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
-<img src="https://img.shields.io/badge/FreeRTOS-2F7A3C?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white"/>
 
 ### ⛓️ &nbsp;Blockchain & Web3
 <img src="https://skillicons.dev/icons?i=solidity&perline=1" alt="blockchain"/>
@@ -197,42 +193,6 @@ open_to:     [collaboration, open-source, mentorship]
 
 <br/>
 
-<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
-<img align="left" width="40" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif"/>
-
-## &nbsp;Featured Projects
-
-<!-- Swap PROJECT-ONE … PROJECT-FOUR for your real repo names -->
-<div align="center">
-<table border="0">
-<tr>
-<td align="center">
-  <a href="https://github.com/Corenegasore123/PROJECT-ONE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Corenegasore123&repo=PROJECT-ONE&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=58A6FF&text_color=c9d1d9"/>
-  </a>
-</td>
-<td align="center">
-  <a href="https://github.com/Corenegasore123/PROJECT-TWO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Corenegasore123&repo=PROJECT-TWO&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=58A6FF&text_color=c9d1d9"/>
-  </a>
-</td>
-</tr>
-<tr>
-<td align="center">
-  <a href="https://github.com/Corenegasore123/PROJECT-THREE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Corenegasore123&repo=PROJECT-THREE&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=58A6FF&text_color=c9d1d9"/>
-  </a>
-</td>
-<td align="center">
-  <a href="https://github.com/Corenegasore123/PROJECT-FOUR">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Corenegasore123&repo=PROJECT-FOUR&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=58A6FF&text_color=c9d1d9"/>
-  </a>
-</td>
-</tr>
-</table>
-</div>
-
-<br/>
 
 <!-- ═══════════════════════════ CONNECT ═══════════════════════════ -->
 <img align="left" width="40" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"/>
@@ -240,11 +200,10 @@ open_to:     [collaboration, open-source, mentorship]
 ## &nbsp;Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://www.instagram.com/YOUR-HANDLE/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://YOUR-PORTFOLIO.dev"><img src="https://img.shields.io/badge/Portfolio-302b63?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://gasorecorene.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-302b63?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/gasore-corene-turinumugisha-275332326/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/_corey_ne/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:corenegasore@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 <br/>
